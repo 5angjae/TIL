@@ -57,3 +57,5 @@ https://thinkground.studio/visual-studio-code-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B8
 ## 이후
 
 git setting?
+
+IntelliJ Setting?
