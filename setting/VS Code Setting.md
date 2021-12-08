@@ -53,3 +53,7 @@ vue 파일의 코드 하이라이팅을 위해 사용. 아래 사진은 vetur �
 #### Prettier
 
 https://thinkground.studio/visual-studio-code-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B8%B0%EB%8A%A5-prettier/
+
+## 이후
+
+git setting?
