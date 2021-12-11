@@ -45,8 +45,6 @@
 
 REST의 기본 원칙을 지킨 API.
 
-REST는 디자인 패턴 vs 아키텍쳐 방법론 - 아키텍처 방법론으로 볼 수 있다.
-
 API Server : 프로그래밍을 통한 요청에 JSON을 응답하는 서버를 만들자
 
 웹 설계 상의 장점을 최대한 활용할 수 있는 아키텍처 방법론으로
@@ -55,23 +53,17 @@ API Server : 프로그래밍을 통한 요청에 JSON을 응답하는 서버를 
 
 ​	자원에 대한 주소를 지정하는 방법으로 이루어진다.
 
-**REST의 구성**
+자원 (URI) / 행위 (HTTP Method) / 표현 (Representations) 으로 구성된다.
 
-자원 : URI (Uniform Resource Identifier) 
+핵심 규칙 1. URI는 정보의 자원을 표현해야 한다.
 
-행위 : HTTP Method
-
-표현 : Representations
+핵심 규칙 2. 자원에 대한 (어떠한) 행위는 HTTP Method로 표현한다.
 
 
 
+REST API라는 것은 REST의 기본 원칙을 지킨 API입니다.
 
-
-
-
-리소스와 행위를 명시적으로 구분 : 
-
-
+REST는 URI를 통해서 자원을 명시하고, HTTP Method를 통해서 행위를 전달하는 방식의 아키텍처 방법론입니다.해서 json 등의 형태로 표현해주도록 하는 일종의 아키텍처 방법론이고 이 방식을 통해 구성한 API가 
 
 #### 디자인 패턴 vs 아키텍쳐
 
