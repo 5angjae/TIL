@@ -1,0 +1,7 @@
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe.config
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\006_Variable\bin\Debug\006_Variable.pdb
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csproj.AssemblyReference.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.csproj.CoreCompileInputs.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\006_Variable\obj\Debug\006_Variable.pdb
