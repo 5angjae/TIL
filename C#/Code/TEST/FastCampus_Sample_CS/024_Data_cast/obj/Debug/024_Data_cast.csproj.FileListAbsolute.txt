@@ -1,0 +1,7 @@
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\024_Data_cast\bin\Debug\024_Data_cast.pdb
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.AssemblyReference.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.CoreCompileInputs.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\024_Data_cast\obj\Debug\024_Data_cast.pdb

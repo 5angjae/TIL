@@ -1,0 +1,6 @@
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.exe.config
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.pdb
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.csproj.CoreCompileInputs.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.pdb

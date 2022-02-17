@@ -1,0 +1,7 @@
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.exe.config
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.pdb
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.csproj.AssemblyReference.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.csproj.CoreCompileInputs.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.pdb
