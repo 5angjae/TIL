@@ -1,0 +1,7 @@
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.exe.config
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.pdb
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.csproj.AssemblyReference.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.csproj.CoreCompileInputs.cache
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.exe
+C:\Users\sangj\github\TIL\C#\Code\TEST\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.pdb
