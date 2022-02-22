@@ -27,3 +27,27 @@
 실행 시, 세팅에 대한 내용
 
 어떤 프로필을 사용할지, 어떤 스키마를 가져올지?
+
+
+
+## Controllers
+
+
+
+## Models
+
+
+
+## appsettings.json
+
+
+
+## Program.cs
+
+프로그램 시작 파일로서 Main() 메서드가 있다.
+
+
+
+## Startup.cs
+
+Web 서버의 다양한 옵션이나 Web Application에서 사용할 서비스 등을 옵션으로 지정하는 파일. 특히 Dependancy Injection을 위해 인터페이스와 클래스를 등록할 때 여기서 정의한다.
