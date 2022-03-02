@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace efcore_test
+namespace EFCore_TEST
 {
     public class Program
     {

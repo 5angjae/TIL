@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace efcore_test.Controllers
+namespace EFCore_TEST.Controllers
 {
     [ApiController]
     [Route("[controller]")]

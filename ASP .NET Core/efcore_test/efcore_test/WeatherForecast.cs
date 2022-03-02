@@ -1,6 +1,6 @@
 using System;
 
-namespace efcore_test
+namespace EFCore_TEST
 {
     public class WeatherForecast
     {

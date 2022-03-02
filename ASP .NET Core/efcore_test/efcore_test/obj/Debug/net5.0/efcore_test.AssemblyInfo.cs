@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("efcore_test")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EFCore_TEST")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("efcore_test")]
-[assembly: System.Reflection.AssemblyTitleAttribute("efcore_test")]
+[assembly: System.Reflection.AssemblyProductAttribute("EFCore_TEST")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EFCore_TEST")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
