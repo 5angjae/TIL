@@ -12,6 +12,7 @@ using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace EFCore_TEST
@@ -36,6 +37,8 @@ namespace EFCore_TEST
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "EFCore_TEST", Version = "v1" });
             });
+
+            services.AddControllers().AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,6 +1,8 @@
-﻿using EFCore_TEST.Models;
+﻿using EFCore_TEST.Data;
+using EFCore_TEST.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using MySqlConnector;
 using System;
@@ -15,11 +17,79 @@ namespace EFCore_TEST.Controllers
     [ApiController]
     public class GradeController : ControllerBase
     {
+
+        private readonly EFContext _context;
+
+        public GradeController(EFContext context)
+        {
+            _context = context;
+        }
+       
+
+       
+        [HttpGet]
+        public IEnumerable<Grade> GetAll()
+        {
+            return _context.Grades.ToList();
+        }
+
+        [HttpPost]
+        public IActionResult AddGrade([FromBody] Grade grade)
+        {
+            if (grade == null)
+            {
+                return BadRequest();
+            }
+
+            _context.Grades.Add(grade);
+            _context.SaveChanges();
+
+            return CreatedAtRoute("GetGrade", new { id = grade.GradeId }, grade);
+        }
+
+        [HttpGet("{id}", Name = "GetGrade")]
+        public IActionResult GetById(long id)
+        {
+            var item = _context.Grades.FirstOrDefault(t => t.GradeId == id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+            return new ObjectResult(item);
+        }
+
+        [HttpPut("{id}")]
+        public IActionResult Update(long id, [FromBody] Grade grade)
+        {
+            if (grade == null || grade.GradeName != _context.Grades.FirstOrDefault(t => t.GradeId == id).GradeName)
+            {
+                return BadRequest();
+            }
+
+            var item = _context.Grades.FirstOrDefault(t => t.GradeId == id);
+            if (item == null)
+            {
+                return NotFound();
+            }
+
+            item.GradeName = grade.GradeName;
+            item.Section = grade.Section;
+            
+
+            _context.Grades.Update(item);
+            _context.SaveChanges();
+            return new NoContentResult();
+        }
+
+        /*
         private readonly IConfiguration _configuration;
         public GradeController(IConfiguration configuration)
         {
             _configuration = configuration;
         }
+        [HttpGet]
+        public ActionResult<IEnumerable<Grades>>
+
 
         [HttpGet]
         public JsonResult Get()
@@ -75,5 +145,6 @@ namespace EFCore_TEST.Controllers
 
             return new JsonResult("Added Successfully");
         }
+        */
     }
 }
