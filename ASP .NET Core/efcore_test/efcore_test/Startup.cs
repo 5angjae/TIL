@@ -1,4 +1,5 @@
 using EFCore_TEST.Data;
+using EFCore_TEST.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -32,6 +33,7 @@ namespace EFCore_TEST
             var serverVersion = new MySqlServerVersion(new Version(8, 0, 28));
             services.AddDbContext<EFContext>(options => options.UseMySql(Configuration.GetConnectionString("Default"), serverVersion));
 
+            services.AddScoped<IGradeRepository, GradeRepository>();
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {

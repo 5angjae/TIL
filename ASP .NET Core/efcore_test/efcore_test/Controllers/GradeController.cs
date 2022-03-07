@@ -1,5 +1,6 @@
 ﻿using EFCore_TEST.Data;
 using EFCore_TEST.Models;
+using EFCore_TEST.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -17,7 +18,27 @@ namespace EFCore_TEST.Controllers
     [ApiController]
     public class GradeController : ControllerBase
     {
+        private readonly IGradeRepository _gradeRepository;
 
+        public GradeController(IGradeRepository gradeRepository)
+        {
+            _gradeRepository = gradeRepository;
+        }
+        
+        [HttpGet]
+        public async Task<IEnumerable<Grade>> GetGrades()
+        {
+            return await _gradeRepository.Get();
+        }
+       
+
+        [HttpGet("{id}")]
+        public async Task<IEnumerable<Student>> GetGrades(int id)
+        {
+            return await _gradeRepository.Get(id);
+        }
+        
+        /*
         private readonly EFContext _context;
 
         public GradeController(EFContext context)
@@ -43,7 +64,7 @@ namespace EFCore_TEST.Controllers
 
             _context.Grades.Add(grade);
             _context.SaveChanges();
-
+            Console.WriteLine(CreatedAtRoute("GetGrade", new { id = grade.GradeId }, grade));
             return CreatedAtRoute("GetGrade", new { id = grade.GradeId }, grade);
         }
 
@@ -80,6 +101,10 @@ namespace EFCore_TEST.Controllers
             _context.SaveChanges();
             return new NoContentResult();
         }
+        */
+
+
+
 
         /*
         private readonly IConfiguration _configuration;
