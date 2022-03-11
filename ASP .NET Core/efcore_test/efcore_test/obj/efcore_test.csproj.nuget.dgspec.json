@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\EFCore_TEST.csproj": {}
+    "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\EFCore_TEST.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\EFCore_TEST.csproj": {
+    "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\EFCore_TEST.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\EFCore_TEST.csproj",
+        "projectUniqueName": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\EFCore_TEST.csproj",
         "projectName": "EFCore_TEST",
-        "projectPath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\EFCore_TEST.csproj",
+        "projectPath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\EFCore_TEST.csproj",
         "packagesPath": "C:\\Users\\sangj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\obj\\",
+        "outputPath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

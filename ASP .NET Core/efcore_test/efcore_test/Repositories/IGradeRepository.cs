@@ -13,6 +13,5 @@ namespace EFCore_TEST.Repositories
         Task<Grade> Create(Grade grade);
         Task Update(Grade grade);
         Task Delete(int id);
-
     }
 }

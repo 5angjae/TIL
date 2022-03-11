@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EFCore_TEST.Migrations
 {
     [DbContext(typeof(EFContext))]
-    [Migration("20220305033530_My")]
+    [Migration("20220307145609_My")]
     partial class My
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

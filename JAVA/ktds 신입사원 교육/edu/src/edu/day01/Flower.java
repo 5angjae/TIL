@@ -19,9 +19,6 @@ public class Flower {
 		this(name, "알지못함");
 	}
 	
-
-	
-
 	public String getName() {
 		return name;
 	}
