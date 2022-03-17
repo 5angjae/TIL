@@ -11,6 +11,15 @@
           "lib/netstandard2.0/Humanizer.dll": {}
         }
       },
+      "Json.Net/1.0.33": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.7.0": {
         "type": "package",
         "compile": {
@@ -347,6 +356,18 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
+      ]
+    },
+    "Json.Net/1.0.33": {
+      "sha512": "5tE+db6BqhRAvITIVBeRsQorLGshPExfm4FmMRvWWAfs4RxeTbFFj2PIEybwmMW0qR30HKkXDYhq0YkDK2Jtxw==",
+      "type": "package",
+      "path": "json.net/1.0.33",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "json.net.1.0.33.nupkg.sha512",
+        "json.net.nuspec",
+        "lib/netstandard2.0/Json.Net.dll"
       ]
     },
     "Microsoft.CSharp/4.7.0": {
@@ -1002,6 +1023,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Json.Net >= 1.0.33",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.14",
       "Pomelo.EntityFrameworkCore.MySql >= 5.0.4",
       "Swashbuckle.AspNetCore >= 5.6.3"
@@ -1014,11 +1036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\EFCore_TEST.csproj",
+      "projectUniqueName": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\EFCore_TEST.csproj",
       "projectName": "EFCore_TEST",
-      "projectPath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\EFCore_TEST.csproj",
+      "projectPath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\EFCore_TEST.csproj",
       "packagesPath": "C:\\Users\\sangj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\obj\\",
+      "outputPath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1051,6 +1073,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Json.Net": {
+            "target": "Package",
+            "version": "[1.0.33, )"
+          },
           "Microsoft.EntityFrameworkCore.Tools": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",

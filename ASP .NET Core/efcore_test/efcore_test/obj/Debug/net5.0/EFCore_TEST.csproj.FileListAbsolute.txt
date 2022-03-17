@@ -36,3 +36,4 @@ C:\Users\sangj\github\TIL\ASP .NET Core\EFCore_TEST\EFCore_TEST\obj\Debug\net5.0
 C:\Users\sangj\github\TIL\ASP .NET Core\EFCore_TEST\EFCore_TEST\obj\Debug\net5.0\ref\EFCore_TEST.dll
 C:\Users\sangj\github\TIL\ASP .NET Core\EFCore_TEST\EFCore_TEST\obj\Debug\net5.0\EFCore_TEST.pdb
 C:\Users\sangj\github\TIL\ASP .NET Core\EFCore_TEST\EFCore_TEST\obj\Debug\net5.0\EFCore_TEST.genruntimeconfig.cache
+C:\Users\sangj\github\TIL\ASP .NET Core\efcore_test\EFCore_TEST\bin\Debug\net5.0\Json.Net.dll

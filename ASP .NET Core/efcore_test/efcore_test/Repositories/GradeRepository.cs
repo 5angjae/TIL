@@ -33,11 +33,6 @@ namespace EFCore_TEST.Repositories
 
         public async Task<IEnumerable<Grade>> Get()
         {
-            foreach(Grade g in _context.Grades)
-            {
-                g.Students = (ICollection<Student>)_context.Students.Where(b => b.CurrentGradeId == g.GradeId).ToListAsync();
-            }
-            await _context.SaveChangesAsync();
             return await _context.Grades.ToListAsync();
         }
 
@@ -59,5 +54,19 @@ namespace EFCore_TEST.Repositories
             _context.Entry(grade).State = EntityState.Modified;
             await _context.SaveChangesAsync();
         }
+
+        public Dictionary<string, Object> GetId(int id)
+        {
+            var now_grade = _context.Grades.FirstOrDefaultAsync(b => b.GradeId == id);
+            var now_students = _context.Students.Where(b => b.CurrentGradeId == id).ToListAsync();
+            var result = new Dictionary<string, Object>()
+            {
+                {"grade", now_grade },
+                {"students", now_students }
+            };
+            
+            return result;
+        }
+
     }
 }

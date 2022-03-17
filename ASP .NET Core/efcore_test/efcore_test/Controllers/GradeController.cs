@@ -31,13 +31,19 @@ namespace EFCore_TEST.Controllers
             return await _gradeRepository.Get();
         }
        
-
+        /*
         [HttpGet("{id}")]
         public async Task<IEnumerable<Student>> GetGrades(int id)
         {
             return await _gradeRepository.Get(id);
         }
-        
+        */
+        [HttpGet("{id}")]
+        public Dictionary<string, Object> GetGradeId(int id)
+        {
+            return _gradeRepository.GetId(id);
+        }
+
         /*
         private readonly EFContext _context;
 
