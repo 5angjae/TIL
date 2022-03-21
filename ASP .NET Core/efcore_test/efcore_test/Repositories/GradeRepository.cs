@@ -40,32 +40,21 @@ namespace EFCore_TEST.Repositories
         {
             return await _context.Students.Where(b => b.CurrentGradeId == id).ToListAsync();
         }
-        /*
-        public async Task<IEnumerable<Grade>> Get(int id)
-        {
-            var grade = _context.Grades.Where(b => b.GradeId == id).FirstOrDefault();
-            
-            grade.Students = (ICollection<Student>)_context.Students.Where(b => b.CurrentGradeId == id);
-            return await grade;
-        }
-         */
+
         public async Task Update(Grade grade)
         {
             _context.Entry(grade).State = EntityState.Modified;
             await _context.SaveChangesAsync();
         }
 
-        public Dictionary<string, Object> GetId(int id)
+        public Grade GetSingleGrade(int id)
         {
-            var now_grade = _context.Grades.FirstOrDefaultAsync(b => b.GradeId == id);
-            var now_students = _context.Students.Where(b => b.CurrentGradeId == id).ToListAsync();
-            var result = new Dictionary<string, Object>()
-            {
-                {"grade", now_grade },
-                {"students", now_students }
-            };
-            
-            return result;
+            return _context.Grades.FirstOrDefault(x => x.GradeId == id);
+        }
+
+        public List<Student> GetGradesStudent(int id)
+        {
+            return _context.Students.Where(x => x.CurrentGradeId == id).ToList();
         }
 
     }

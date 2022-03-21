@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ndoxOX11taxyKrOCcgxmm4PxANBqsyvCbUt5ylFx4uYLrZwbEIeKUPMQI1/4/GOWPEhCe0OI4D9BK/QDitHToA==",
+  "dgSpecHash": "AIdwQc3BHFZ5LOSUAcvDq4o27t87N4MXpXBflSkvb9E/PdZOlDcJGGtLlMkIJXhD/tqeKc7qrnBDUvyhJ2aMIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\efcore_test\\EFCore_TEST\\EFCore_TEST.csproj",
+  "projectFilePath": "C:\\Users\\sangj\\github\\TIL\\ASP .NET Core\\EFCore_TEST\\EFCore_TEST\\EFCore_TEST.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sangj\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Users\\sangj\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\sangj\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\sangj\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.14\\microsoft.entityframeworkcore.5.0.14.nupkg.sha512",
     "C:\\Users\\sangj\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.14\\microsoft.entityframeworkcore.abstractions.5.0.14.nupkg.sha512",

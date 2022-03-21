@@ -8,7 +8,9 @@ using Microsoft.Extensions.Configuration;
 using MySqlConnector;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Data;
+using System.Dynamic;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -31,19 +33,54 @@ namespace EFCore_TEST.Controllers
             return await _gradeRepository.Get();
         }
        
+        
         /*
-        [HttpGet("{id}")]
         public async Task<IEnumerable<Student>> GetGrades(int id)
         {
             return await _gradeRepository.Get(id);
         }
         */
+
         [HttpGet("{id}")]
-        public Dictionary<string, Object> GetGradeId(int id)
+        public ActionResult GetStudents(int id)
         {
-            return _gradeRepository.GetId(id);
+            Grade grade = _gradeRepository.GetSingleGrade(id);
+
+            if (grade == null)
+            {
+                return NotFound();
+            }
+            return Ok(SampleFunction(grade, id));
         }
 
+        private dynamic SampleFunction(Grade grade, int id)
+        {
+            var students = _gradeRepository.GetGradesStudent(id);
+            IDictionary<string, object> student_temp = new ExpandoObject();
+            List<IDictionary<string, object>> students_list = new List<IDictionary<string, object>>();
+            foreach(var student in students)
+            {
+                student_temp.Add("id", student.Id);
+                student_temp.Add("name", student.Name);
+                students_list.Add(student_temp);
+                student_temp = new ExpandoObject();
+            }
+
+
+            IDictionary<string, object> expando = new ExpandoObject();
+
+            foreach(PropertyDescriptor property in TypeDescriptor.GetProperties(grade.GetType()))
+            {
+                expando.Add(property.Name, property.GetValue(grade));
+            }
+
+            var returnToDict = expando;
+
+            returnToDict.Add("students", students_list);
+
+            return returnToDict;
+
+        }
         /*
         private readonly EFContext _context;
 
