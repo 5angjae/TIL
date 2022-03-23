@@ -74,3 +74,9 @@ C:\Users\sangj\github\새 폴더 (2)\BackEnd\EFCore_TEST\EFCore_TEST\obj\Debug\n
 C:\Users\sangj\github\새 폴더 (2)\BackEnd\EFCore_TEST\EFCore_TEST\obj\Debug\net5.0\ref\EFCore_TEST.dll
 C:\Users\sangj\github\새 폴더 (2)\BackEnd\EFCore_TEST\EFCore_TEST\obj\Debug\net5.0\EFCore_TEST.pdb
 C:\Users\sangj\github\새 폴더 (2)\BackEnd\EFCore_TEST\EFCore_TEST\obj\Debug\net5.0\EFCore_TEST.genruntimeconfig.cache
+C:\Users\sangj\github\TIL\ASP .NET Core\efcore_test\EFCore_TEST\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\efcore_test\EFCore_TEST\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\efcore_test\EFCore_TEST\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\efcore_test\EFCore_TEST\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\efcore_test\EFCore_TEST\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\efcore_test\EFCore_TEST\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll

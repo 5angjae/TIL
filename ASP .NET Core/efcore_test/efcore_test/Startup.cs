@@ -34,6 +34,7 @@ namespace EFCore_TEST
             services.AddDbContext<EFContext>(options => options.UseMySql(Configuration.GetConnectionString("Default"), serverVersion));
 
             services.AddScoped<IGradeRepository, GradeRepository>();
+
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
@@ -41,6 +42,10 @@ namespace EFCore_TEST
             });
 
             services.AddControllers().AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
+
+
+            services.AddAutoMapper(typeof(Startup));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

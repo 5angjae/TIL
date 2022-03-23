@@ -69,9 +69,13 @@ namespace EFCore_TEST.Controllers
 
             IDictionary<string, object> expando = new ExpandoObject();
 
-            foreach(PropertyDescriptor property in TypeDescriptor.GetProperties(grade.GetType()))
+            foreach (PropertyDescriptor property in TypeDescriptor.GetProperties(grade.GetType()))
             {
-                expando.Add(property.Name, property.GetValue(grade));
+                if(property.Name != "Students")
+                {
+                    expando.Add(property.Name, property.GetValue(grade));
+                }
+                
             }
 
             var returnToDict = expando;
