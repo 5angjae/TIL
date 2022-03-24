@@ -1,4 +1,6 @@
-﻿using EFCore_TEST.Data;
+﻿using AutoMapper;
+using EFCore_TEST.Data;
+using EFCore_TEST.Dtos;
 using EFCore_TEST.Models;
 using EFCore_TEST.Repositories;
 using Microsoft.AspNetCore.Http;
@@ -21,10 +23,27 @@ namespace EFCore_TEST.Controllers
     public class GradeController : ControllerBase
     {
         private readonly IGradeRepository _gradeRepository;
+        private readonly IMapper _mapper;
 
-        public GradeController(IGradeRepository gradeRepository)
+        public GradeController(IGradeRepository gradeRepository, IMapper mapper)
         {
             _gradeRepository = gradeRepository;
+            _mapper = mapper;
+        }
+
+        [HttpPost]
+        public ActionResult<GradeDto> CreateGrade([FromBody] GradeDto grade)
+        {
+            if(grade == null)
+            {
+                return BadRequest();
+            }
+
+            Grade toAdd = _mapper.Map<Grade>(grade);
+            _gradeRepository.Add(toAdd);
+
+            return grade;
+
         }
         
         [HttpGet]
@@ -45,15 +64,15 @@ namespace EFCore_TEST.Controllers
         public ActionResult GetStudents(int id)
         {
             Grade grade = _gradeRepository.GetSingleGrade(id);
-
-            if (grade == null)
+            GradeDto item = _mapper.Map<GradeDto>(grade);
+            if (item == null)
             {
                 return NotFound();
             }
-            return Ok(SampleFunction(grade, id));
+            return Ok(SampleFunction(item, id));
         }
 
-        private dynamic SampleFunction(Grade grade, int id)
+        private dynamic SampleFunction(GradeDto item, int id)
         {
             var students = _gradeRepository.GetGradesStudent(id);
             IDictionary<string, object> student_temp = new ExpandoObject();
@@ -69,11 +88,11 @@ namespace EFCore_TEST.Controllers
 
             IDictionary<string, object> expando = new ExpandoObject();
 
-            foreach (PropertyDescriptor property in TypeDescriptor.GetProperties(grade.GetType()))
+            foreach (PropertyDescriptor property in TypeDescriptor.GetProperties(item.GetType()))
             {
                 if(property.Name != "Students")
                 {
-                    expando.Add(property.Name, property.GetValue(grade));
+                    expando.Add(property.Name, property.GetValue(item));
                 }
                 
             }

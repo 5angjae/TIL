@@ -11,8 +11,8 @@ namespace EFCore_TEST.Mappers
     public class Mapper : Profile
     {
         public Mapper() {
-            CreateMap<Grade, GradeDto>();
-            CreateMap<Student, StudentBaseDto>();
+            CreateMap<Grade, GradeDto>().ReverseMap();
+            CreateMap<Student, StudentBaseDto>().ReverseMap();
         }
 
         

@@ -1,4 +1,6 @@
-﻿using EFCore_TEST.Models;
+﻿using EFCore_TEST.Dtos;
+using EFCore_TEST.Models;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,7 +12,7 @@ namespace EFCore_TEST.Repositories
     {
         Task<IEnumerable<Grade>> Get();
         Task<IEnumerable<Student>> Get(int id);
-        Task<Grade> Create(Grade grade);
+        void Add(Grade grade);
         Task Update(Grade grade);
         Task Delete(int id);
         Grade GetSingleGrade(int id);

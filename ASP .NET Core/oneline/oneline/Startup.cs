@@ -9,6 +9,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using oneline.Data;
+using oneline.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,11 +36,19 @@ namespace oneline
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "oneline", Version = "v1" });
             });
 
+            //MySql 연결
             var serverVersion = new MySqlServerVersion(new Version(8, 0, 28));
             services.AddDbContext<OneLineContext>(options => options.UseMySql(Configuration.GetConnectionString("Default"), serverVersion));
 
+            // automapper
+            services.AddAutoMapper(typeof(Startup));
+
+            // AddScoped : 요청내에서 상태를 유지하려는 경우
+            services.AddScoped<IUserRepository, UserRepository>();
+
+
         }
-    
+
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

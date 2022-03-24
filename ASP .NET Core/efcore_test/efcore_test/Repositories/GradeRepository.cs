@@ -1,5 +1,8 @@
-﻿using EFCore_TEST.Data;
+﻿using AutoMapper;
+using EFCore_TEST.Data;
+using EFCore_TEST.Dtos;
 using EFCore_TEST.Models;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -11,17 +14,16 @@ namespace EFCore_TEST.Repositories
     public class GradeRepository : IGradeRepository
     {
         private readonly EFContext _context;
+        private readonly IMapper _mapper;
 
         public GradeRepository(EFContext context)
         {
             _context = context;
         }
-        public async Task<Grade> Create(Grade grade)
+        public void Add(Grade grade)
         {
             _context.Grades.Add(grade);
-            await _context.SaveChangesAsync();
-
-            return grade;
+            _context.SaveChanges();
         }
 
         public async Task Delete(int id)

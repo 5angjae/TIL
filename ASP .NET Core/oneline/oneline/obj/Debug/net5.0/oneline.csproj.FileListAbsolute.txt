@@ -36,3 +36,9 @@ C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\obj\Debug\net5.0\oneline
 C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\obj\Debug\net5.0\ref\oneline.dll
 C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\obj\Debug\net5.0\oneline.pdb
 C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\obj\Debug\net5.0\oneline.genruntimeconfig.cache
+C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\sangj\github\TIL\ASP .NET Core\oneline\oneline\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
