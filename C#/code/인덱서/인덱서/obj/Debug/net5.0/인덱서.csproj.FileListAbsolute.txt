@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\bin\Debug\net5.0\인덱서.exe
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\bin\Debug\net5.0\인덱서.deps.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\bin\Debug\net5.0\인덱서.runtimeconfig.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\bin\Debug\net5.0\인덱서.runtimeconfig.dev.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\bin\Debug\net5.0\인덱서.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\bin\Debug\net5.0\ref\인덱서.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\bin\Debug\net5.0\인덱서.pdb
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\인덱서.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\인덱서.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\인덱서.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\인덱서.AssemblyInfo.cs
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\인덱서.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\인덱서.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\ref\인덱서.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\인덱서.pdb
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인덱서\인덱서\obj\Debug\net5.0\인덱서.genruntimeconfig.cache
