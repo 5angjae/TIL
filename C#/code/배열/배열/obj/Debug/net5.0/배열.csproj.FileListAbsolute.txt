@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\bin\Debug\net5.0\배열.exe
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\bin\Debug\net5.0\배열.deps.json
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\bin\Debug\net5.0\배열.runtimeconfig.json
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\bin\Debug\net5.0\배열.runtimeconfig.dev.json
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\bin\Debug\net5.0\배열.dll
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\bin\Debug\net5.0\ref\배열.dll
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\bin\Debug\net5.0\배열.pdb
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\배열.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\배열.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\배열.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\배열.AssemblyInfo.cs
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\배열.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\배열.dll
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\ref\배열.dll
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\배열.pdb
+C:\Users\SANGJAE\Desktop\새 폴더\배열\배열\obj\Debug\net5.0\배열.genruntimeconfig.cache

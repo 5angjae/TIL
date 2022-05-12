@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "멤버 메서드와 매개 변수 전달 방식", "멤버 메서드와 매개 변수 전달 방식\멤버 메서드와 매개 변수 전달 방식.csproj", "{EC545A7C-8C15-4AE1-BCA5-51291BD671D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC545A7C-8C15-4AE1-BCA5-51291BD671D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC545A7C-8C15-4AE1-BCA5-51291BD671D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC545A7C-8C15-4AE1-BCA5-51291BD671D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC545A7C-8C15-4AE1-BCA5-51291BD671D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB466C7E-347C-4EC2-BB20-B08565107C98}
+	EndGlobalSection
+EndGlobal

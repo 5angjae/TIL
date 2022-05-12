@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\bin\Debug\net5.0\문자열.exe
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\bin\Debug\net5.0\문자열.deps.json
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\bin\Debug\net5.0\문자열.runtimeconfig.json
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\bin\Debug\net5.0\문자열.runtimeconfig.dev.json
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\bin\Debug\net5.0\문자열.dll
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\bin\Debug\net5.0\ref\문자열.dll
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\bin\Debug\net5.0\문자열.pdb
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\문자열.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\문자열.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\문자열.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\문자열.AssemblyInfo.cs
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\문자열.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\문자열.dll
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\ref\문자열.dll
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\문자열.pdb
+C:\Users\SANGJAE\Desktop\C#\문자열\문자열\obj\Debug\net5.0\문자열.genruntimeconfig.cache

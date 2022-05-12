@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\bin\Debug\net5.0\구조체.exe
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\bin\Debug\net5.0\구조체.deps.json
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\bin\Debug\net5.0\구조체.runtimeconfig.json
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\bin\Debug\net5.0\구조체.runtimeconfig.dev.json
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\bin\Debug\net5.0\구조체.dll
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\bin\Debug\net5.0\ref\구조체.dll
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\bin\Debug\net5.0\구조체.pdb
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\구조체.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\구조체.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\구조체.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\구조체.AssemblyInfo.cs
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\구조체.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\구조체.dll
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\ref\구조체.dll
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\구조체.pdb
+C:\Users\SANGJAE\Desktop\C#\구조체\구조체\obj\Debug\net5.0\구조체.genruntimeconfig.cache

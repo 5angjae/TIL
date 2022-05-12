@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "멤버 메서드와 매개 변수 전달 방식/1.0.0": {
+        "runtime": {
+          "멤버 메서드와 매개 변수 전달 방식.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "멤버 메서드와 매개 변수 전달 방식/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

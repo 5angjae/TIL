@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\bin\Debug\net5.0\열거형.exe
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\bin\Debug\net5.0\열거형.deps.json
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\bin\Debug\net5.0\열거형.runtimeconfig.json
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\bin\Debug\net5.0\열거형.runtimeconfig.dev.json
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\bin\Debug\net5.0\열거형.dll
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\bin\Debug\net5.0\ref\열거형.dll
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\bin\Debug\net5.0\열거형.pdb
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\열거형.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\열거형.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\열거형.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\열거형.AssemblyInfo.cs
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\열거형.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\열거형.dll
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\ref\열거형.dll
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\열거형.pdb
+C:\Users\SANGJAE\Desktop\C#\열거형\열거형\obj\Debug\net5.0\열거형.genruntimeconfig.cache

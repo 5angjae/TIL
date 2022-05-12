@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = 멤버_메서드와_매개_변수_전달_방식
+build_property.ProjectDir = C:\Users\SANGJAE\Desktop\C#\멤버 메서드와 매개 변수 전달 방식\멤버 메서드와 매개 변수 전달 방식\

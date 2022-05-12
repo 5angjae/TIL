@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\bin\Debug\net5.0\Boxing과_Unboxing.exe
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\bin\Debug\net5.0\Boxing과_Unboxing.deps.json
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\bin\Debug\net5.0\Boxing과_Unboxing.runtimeconfig.json
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\bin\Debug\net5.0\Boxing과_Unboxing.runtimeconfig.dev.json
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\bin\Debug\net5.0\Boxing과_Unboxing.dll
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\bin\Debug\net5.0\ref\Boxing과_Unboxing.dll
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\bin\Debug\net5.0\Boxing과_Unboxing.pdb
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\Boxing과_Unboxing.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\Boxing과_Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\Boxing과_Unboxing.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\Boxing과_Unboxing.AssemblyInfo.cs
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\Boxing과_Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\Boxing과_Unboxing.dll
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\ref\Boxing과_Unboxing.dll
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\Boxing과_Unboxing.pdb
+C:\Users\SANGJAE\Desktop\새 폴더\Boxing과_Unboxing\Boxing과_Unboxing\obj\Debug\net5.0\Boxing과_Unboxing.genruntimeconfig.cache
