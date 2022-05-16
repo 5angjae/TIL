@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "연산자 중복 정의/1.0.0": {
+        "runtime": {
+          "연산자 중복 정의.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "연산자 중복 정의/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
