@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\bin\Debug\net5.0\상속.exe
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\bin\Debug\net5.0\상속.deps.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\bin\Debug\net5.0\상속.runtimeconfig.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\bin\Debug\net5.0\상속.runtimeconfig.dev.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\bin\Debug\net5.0\상속.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\bin\Debug\net5.0\ref\상속.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\bin\Debug\net5.0\상속.pdb
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\상속.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\상속.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\상속.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\상속.AssemblyInfo.cs
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\상속.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\상속.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\ref\상속.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\상속.pdb
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\상속\상속\obj\Debug\net5.0\상속.genruntimeconfig.cache
