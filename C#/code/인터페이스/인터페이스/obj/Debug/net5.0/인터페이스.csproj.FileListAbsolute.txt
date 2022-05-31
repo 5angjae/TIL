@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\bin\Debug\net5.0\인터페이스.exe
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\bin\Debug\net5.0\인터페이스.deps.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\bin\Debug\net5.0\인터페이스.runtimeconfig.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\bin\Debug\net5.0\인터페이스.runtimeconfig.dev.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\bin\Debug\net5.0\인터페이스.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\bin\Debug\net5.0\ref\인터페이스.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\bin\Debug\net5.0\인터페이스.pdb
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\인터페이스.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\인터페이스.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\인터페이스.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\인터페이스.AssemblyInfo.cs
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\인터페이스.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\인터페이스.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\ref\인터페이스.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\인터페이스.pdb
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\인터페이스\인터페이스\obj\Debug\net5.0\인터페이스.genruntimeconfig.cache

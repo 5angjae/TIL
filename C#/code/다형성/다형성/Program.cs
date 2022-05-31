@@ -45,6 +45,9 @@ namespace 다형성
             Man man = new Stu();
             man.Work();
 
+            // Man m = new Man(); // 추상클래스로 만들면 개체 생성이 불가능
+
+
         }
     }
 }

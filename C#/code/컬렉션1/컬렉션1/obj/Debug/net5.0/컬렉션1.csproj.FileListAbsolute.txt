@@ -1,0 +1,16 @@
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\bin\Debug\net5.0\컬렉션1.exe
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\bin\Debug\net5.0\컬렉션1.deps.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\bin\Debug\net5.0\컬렉션1.runtimeconfig.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\bin\Debug\net5.0\컬렉션1.runtimeconfig.dev.json
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\bin\Debug\net5.0\컬렉션1.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\bin\Debug\net5.0\ref\컬렉션1.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\bin\Debug\net5.0\컬렉션1.pdb
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\컬렉션1.csproj.AssemblyReference.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\컬렉션1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\컬렉션1.AssemblyInfoInputs.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\컬렉션1.AssemblyInfo.cs
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\컬렉션1.csproj.CoreCompileInputs.cache
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\컬렉션1.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\ref\컬렉션1.dll
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\컬렉션1.pdb
+C:\Users\SANGJAE\GitHub\5angjae\TIL\C#\code\컬렉션1\컬렉션1\obj\Debug\net5.0\컬렉션1.genruntimeconfig.cache

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace 다형성
 {
-    class Man
+    abstract class Man
     {
         internal void Walk()
         {
@@ -20,9 +20,15 @@ namespace 다형성
         {
             Console.WriteLine("일2");
         }
+        internal abstract void Work3(); // 추상 메서드 (사용을 위해서는 class 도 abstract로)
+        
     }
     class Stu : Man
     {
+        internal override void Work3() // 추상 메서드를 재정의 해야 개체를 생성 가능
+        {
+            Console.WriteLine("학생 공3");
+        }
         internal override void Work2()
         {
             Console.WriteLine("학생 공2");
